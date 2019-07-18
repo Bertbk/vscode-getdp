@@ -6,7 +6,7 @@
 	"name": "vscode-getdp",
 	"displayName": "vscode-getdp",
 	"description": "GetDP language support in Visual Studio Code",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"keywords": [
 		"getdp",
 		"language"
@@ -45,10 +45,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Bertbk/vscode-getdp.git"
-	},
-	"__metadata": {
-		"id": "41bc4a9e-7e97-4909-86f7-80b15598e536",
-		"publisherDisplayName": "Bertrand Thierry",
-		"publisherId": "440a358c-ac2d-4d21-86f9-7595312da4bb"
 	}
 }
