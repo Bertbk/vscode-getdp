@@ -102,7 +102,7 @@
 				},
 				{
 					"name": "entity.name.function.getdp",
-					"match": "\\b(StrCat|StrFind|StrCmp|StrLen|StringToName|S2N|Exists|FileExists|GroupExists|GetForced|NbrRegions|GetNumber|Print|Printf)\\b"
+					"match": "\\b(GetRegions|StrCat|StrFind|StrCmp|StrLen|StringToName|S2N|Exists|FileExists|GroupExists|GetForced|NbrRegions|GetNumber|Print|Printf)\\b"
 				},
 				{
 					"name": "keyword.getdp",
